@@ -6,8 +6,8 @@
 ## ABOUT ME
 - 💻 MCA In Information Security Management System.
 - 💻 BCA In Computer Programming.
-- 📱 Ability to create innovative, creative, & interactive mobile apps for real-life problems.
-- 🥉 Skilled in C++, Java, Python, Data Structures, Android & Flutter development.
+- 📱 Ability to create innovative, creative, & interactive websites for real-life problems.
+- 🥉 Skilled in C++, Java, Web development, Network Security, Cryptography, MySQL, ASP.net, C#, Linux.
 - 🤍 Love to explore new technologies.
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
 
